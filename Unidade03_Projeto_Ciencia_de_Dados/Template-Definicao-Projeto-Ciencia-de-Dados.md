@@ -30,7 +30,8 @@ A população tem grande dificuldade em localizar e achar lugares público de la
 diretamente no google maps e diversos outros apps de mapa. Então a ideia é desenvolver um app que conecte as pessoas e a cidade
 de forma mais sustentável, principalmente em regiões periféricas. Os dados do app serão alimentados pelos próprios usuários e
 IA integrada. Estes mesmos dados serão usados para montar o Mapa Verde que será exibido para o usuário, preenchidos com diversas areas
-de exercícios, lazer, quadras, parques, eventos, etc.
+de exercícios, lazer, quadras, parques, e eventos. Tudo com seus respectivos feedbacks e pessoas conectadas no local,
+Visando conecta as pessoas entre si e com a cidade.
 ________________________________________________________________________________
 
 ### 2.2 Declaração do projeto em uma frase
