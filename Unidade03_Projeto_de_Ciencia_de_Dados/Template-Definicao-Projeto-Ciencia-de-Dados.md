@@ -13,8 +13,10 @@
 | Título provisório do projeto | Green City |
 | Curso / disciplina | Engenharia de Software | Ciência de Dados|
 | Turma | |
-| Equipe | Pedro Ruan de Oliveira Moura |
-| Integrantes e funções iniciais | Pedro -  |
+| Equipe ||
+| Integrantes e funções iniciais | Pedro Ruan de Oliveira Moura|
+||Filipe Santos Barbalho |
+||Filipe Costa Lima de Oliveira|
 | Professor(a) | |
 | Data de elaboração | 16/09/2026 |
 | Versão do documento | 1.0 |
@@ -40,7 +42,8 @@ ________________________________________________________________________________
 
 **Versão da equipe:**
 
-Nosso projeto utilizará **[dados ou fonte]** para compreender/prever **[fenômeno]**, apoiando **[público ou organização]** na decisão de **[decisão ou ação]**.
+Nosso projeto utilizará dados cadastrados pelos próprios usuários, complementados por informações geográficas públicas, para compreender
+a distribuição e o uso de espaços públicos de lazer e exercício em regiões periféricas, apoiando moradores dessas regiões na decisão de onde encontrar e frequentar áreas verdes, quadras, parques e eventos comunitários.
 
 ## 3. Contexto e definição do problema
 
